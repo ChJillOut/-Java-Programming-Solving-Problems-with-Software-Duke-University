@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ This\ program\ will\ determine\ if\ a\ DNA\ strand\ has\ a\ gene\ in\ it\ given\ any\ specific\ start\ codon\ and\ stop\ codon.\ \ \n\ \n\ @author\ (Jill\ Liu)\ \n\ @version\ (01/05/2018)\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3

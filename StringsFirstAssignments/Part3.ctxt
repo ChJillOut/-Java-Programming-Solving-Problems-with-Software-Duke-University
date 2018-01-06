@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\n\ The\ twoOccurrences\ method\ returns\ true\ if\ stringa\ appears\ at\ least\ twice\ in\ stringb,\ otherwise\ it\ returns\ false.\ \n\ The\ lastPart\ method\ finds\ the\ first\ occurrence\ of\ stringa\ in\ stringb,\ and\ returns\ the\ part\ of\ stringb\ that\ follows\ stringa.\ If\ stringa\ does\ not\ occur\ in\ stringb,\ then\ return\ stringb.\n\ \n\ @author\ (Jill\ Liu)\ \n\ @version\ (01/05/2018)\n
+comment1.params=stringa\ stringb
+comment1.target=java.lang.Boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testing()
+comment3.params=stringa\ stringb
+comment3.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+numComments=4
