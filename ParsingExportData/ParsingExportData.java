@@ -14,10 +14,10 @@ public class ParsingExportData {
         countryInfo(parser, "Nauru");
         
         parser = fr.getCSVParser();
-        listExportersTwoProducts(parser,"fish","nuts");
+        listExportersTwoProducts(parser,"cotton","flowers");
         
         parser = fr.getCSVParser();
-        int numberOfExporters = numberOfExporters(parser, "sugar");
+        int numberOfExporters = numberOfExporters(parser, "cocoa");
         System.out.println(numberOfExporters);
         
         parser = fr.getCSVParser();
